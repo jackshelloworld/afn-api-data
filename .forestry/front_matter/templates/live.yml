@@ -9,3 +9,5 @@ fields:
     min: 
     max: 
   label: Agenda
+pages:
+- live/live.json
