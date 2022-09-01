@@ -1,0 +1,11 @@
+---
+label: Live
+hide_body: true
+fields:
+- name: agenda
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Agenda
